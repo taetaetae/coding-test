@@ -120,7 +120,7 @@ comments:
 
   ## Disqus
   disqus:
-    shortname: taetaetae_leetcode # the Disqus shortname for the site
+    shortname: taetaetae-leetcode # the Disqus shortname for the site
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
