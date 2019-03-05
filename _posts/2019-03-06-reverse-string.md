@@ -6,12 +6,12 @@ tags:
 categories : Easy
 ---
 <!--more-->
-### 문제 링크 : https://leetcode.com/problems/reverse-string/
+https://leetcode.com/problems/reverse-string/
 
-### 문제 해석
+### # 문제 해석
 어쩌고 저쪼고
 
-### 결과
+### # 결과
 ```java
 class Solution {
     public void reverseString(char[] s) {
@@ -25,5 +25,5 @@ class Solution {
 }
 ```
 
-### 후기
+### # 후기
 이러쿵 저러쿵
