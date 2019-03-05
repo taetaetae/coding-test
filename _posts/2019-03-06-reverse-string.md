@@ -1,12 +1,17 @@
 ---
-title: reverse-string
+title: 344. Reverse String
 tags:
   - reverse
   - array
+categories : Easy
 ---
+<!--more-->
+### 문제 링크 : https://leetcode.com/problems/reverse-string/
 
-미리보기에서는 뭘 보여주고<!--more-->
-그다음에는 뭘 보여줄지 고민해보자
+### 문제 해석
+어쩌고 저쪼고
+
+### 결과
 ```java
 class Solution {
     public void reverseString(char[] s) {
@@ -19,3 +24,6 @@ class Solution {
     }
 }
 ```
+
+### 후기
+이러쿵 저러쿵
