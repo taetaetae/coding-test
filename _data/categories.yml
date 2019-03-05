@@ -1,0 +1,15 @@
+- category:
+    name: 'Easy'
+    id: Easy
+    bg-color: '#5cb85c'
+    tx-color: white
+- category:
+    name: 'Medium'
+    id: Medium
+    bg-color: '#f0ad4e'
+    tx-color: white
+- category:
+    name: 'Hard'
+    id: Hard
+    bg-color: '#d9534f'
+    tx-color: white
