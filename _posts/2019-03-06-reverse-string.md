@@ -5,13 +5,13 @@ tags:
   - array
 categories : Easy
 ---
+[https://leetcode.com/problems/reverse-string/](https://leetcode.com/problems/reverse-string/)
 <!--more-->
-https://leetcode.com/problems/reverse-string/
 
 ### # 문제 해석
 어쩌고 저쪼고
 
-### # 결과
+### # 해결 코드
 ```java
 class Solution {
     public void reverseString(char[] s) {
