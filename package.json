@@ -8,7 +8,7 @@
     "default": "bundle exec jekyll serve -H 0.0.0.0 -t",
     "dev": "bundle exec jekyll serve -H 0.0.0.0 -t --config ./docs/_config.dev.yml",
     "demo-dev": "bundle exec jekyll serve -H 0.0.0.0 -t --config ./docs/_config.yml",
-    "demo-beta": "JEKYLL_ENV=beta bundle exec jekyll serve -H 0.0.0.0 -t --config ./docs/_config.yml",
+    "demo-beta": "JEKYLL_ENV=production bundle exec jekyll serve -H 0.0.0.0 -t --config ./docs/_config.yml",
     "demo-production": "JEKYLL_ENV=production bundle exec jekyll serve -H 0.0.0.0 -t --config ./docs/_config.yml",
     "eslint": "eslint \"_includes/**/*.js\"",
     "eslint-fix": "eslint \"_includes/**/*.js\" --fix",
