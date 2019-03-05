@@ -1,10 +1,9 @@
 ---
 title: 344. Reverse String
 tags:
+  - easy
   - reverse
   - array
-categories : Easy
-comment: true
 ---
 [https://leetcode.com/problems/reverse-string/](https://leetcode.com/problems/reverse-string/)
 <!--more-->
