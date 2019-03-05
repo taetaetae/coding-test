@@ -4,10 +4,6 @@ header:
       en:       Home
     url:        /
   - titles:
-      ko:       Categories
-      en:       Categories
-    url:        /categories.html
-  - titles:
       ko:       Archive
       en:       Archive
     url:        /archive.html
