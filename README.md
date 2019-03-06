@@ -1,2 +1,5 @@
-TIL (Today I ~~Learned~~ Leetcode)
+TIL (Today I Learned)
+
+---
+
 https://leetcode.com/taetaetae
