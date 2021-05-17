@@ -7,3 +7,7 @@ header:
       ko:       Archive
       en:       Archive
     url:        /archive.html
+  - titles:
+      ko:       About
+      en:       About
+    url:        /about.html
