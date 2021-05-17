@@ -5,31 +5,22 @@ tags:
   - string
   - number
 ---
-http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788997924837
-> 114 page
-> 
+[누가 IT시장 취업에 성공하는가](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788997924837) > 114 page
+
 <!--more-->
 
 ### # 문제 해석
 
-121, 131, 123454321 등은 대칭수이다.
-
+121, 131, 123454321 등은 대칭수이다. 
 122, 123, 124 등은 대칭수가 아니다.
-
 n부터 m사이의 대칭수를 찾는 코드를 작성하시오.
 
 입력타입 : int n, int m
-
 출력타입 : String
 
------
-
 * 입력
-
   10, 30
-
 * 출력
-
   11, 22
 
 ### # 해결 코드
