@@ -58,4 +58,5 @@ public String solution(int n, int m) {
 
 꼭 int 를 String 으로 바꾼다음에 그걸 또 다시 char 배열로 바꿔서 검사를 했어야 했을까...
 
-자릿수를 알려면 어쩔수 없는 선택... 
+자릿수를 알려면 어쩔수 없는 선택인것 같기도 하고.
+
