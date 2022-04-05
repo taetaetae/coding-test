@@ -9,4 +9,8 @@ tags:
 
 <!--more-->
 
-- 
+01:19:07.62
+
+- Wrapper Class Array 거꾸로 할때는 Collections.reverse
+- primitive Type Array 거꾸로 할때는 ArrayUtils.reverse
+- 자리수의 한칸 숫자 구할땐 `10^n`으로 나눈뒤 `%10` 연산
