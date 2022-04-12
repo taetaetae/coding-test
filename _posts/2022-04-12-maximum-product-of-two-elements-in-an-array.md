@@ -3,6 +3,7 @@ title: maximum-product-of-two-elements-in-an-array
 tags:
   - Array
   - Sorting
+  - Easy
 
 ---
 [https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
