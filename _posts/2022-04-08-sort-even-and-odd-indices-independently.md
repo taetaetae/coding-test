@@ -3,6 +3,7 @@ title: sort-even-and-odd-indices-independently
 tags:
   - Array
   - Sorting
+  - Easy
 
 ---
 [https://leetcode.com/problems/sort-even-and-odd-indices-independently/](https://leetcode.com/problems/sort-even-and-odd-indices-independently/)
