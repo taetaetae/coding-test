@@ -3,6 +3,7 @@ title: minimum-limit-of-balls-in-a-bag
 tags:
   - Array
   - Binary Search
+  - Medium
 
 ---
 [https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)
